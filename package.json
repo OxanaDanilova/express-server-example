@@ -1,0 +1,25 @@
+{
+  "name": "be-08-post-rick-morty-oxanadanilova",
+  "version": "1.0.0",
+  "description": "Backend für die [Rick and Morty Favourites App](https://github.com/D02-2/rick-morty-collect)",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fbw-d05/be-08-post-rick-morty-OxanaDanilova.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fbw-d05/be-08-post-rick-morty-OxanaDanilova/issues"
+  },
+  "homepage": "https://github.com/fbw-d05/be-08-post-rick-morty-OxanaDanilova#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1"
+  }
+}
